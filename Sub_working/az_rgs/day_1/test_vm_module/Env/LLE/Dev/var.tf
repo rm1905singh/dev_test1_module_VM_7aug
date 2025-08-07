@@ -1,0 +1,10 @@
+variable "rg_name" {}
+variable "vnets" {}
+variable "subnets" {}
+variable "nics" {}
+variable "pips" {}
+variable "nsgs" {}
+variable "security_rule" {}
+variable "nsgass" {}
+variable "vms" {}
+#variable "azbasions" {}
